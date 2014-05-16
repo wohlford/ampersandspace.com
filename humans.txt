@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Jason Wohlford -- Web Developer -- @wohlford
+
+# THANKS
+
+    Leah Evans, David Allred, Joe Birdwell, Boyd Stephens
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
